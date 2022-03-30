@@ -1,0 +1,87 @@
+// Body
+$body-bg: #558ecb;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+
+:root {
+    --bs-blue: #2361ce;
+    --bs-indigo: #4F46E5;
+    --bs-purple: #7C3AED;
+    --bs-pink: #EF4683;
+    --bs-red: #E11D48;
+    --bs-orange: #FBA918;
+    --bs-yellow: #f3c78e;
+    --bs-green: #10B981;
+    --bs-teal: #1E90FF;
+    --bs-cyan: #63b1bd;
+    --bs-white: #ffffff;
+    --bs-gray: #4B5563;
+    --bs-gray-dark: var(--bs-primary);
+    --bs-gray-100: #F2F4F6;
+    --bs-gray-200: #E5E7EB;
+    --bs-gray-300: #D1D5DB;
+    --bs-gray-400: #9CA3AF;
+    --bs-gray-500: #6B7280;
+    --bs-gray-600: #4B5563;
+    --bs-gray-700: var(--bs-sub-primary);
+    --bs-gray-800: var(--bs-primary);
+    --bs-gray-900: #111827;
+
+    --bs-primary: #222831;
+    --bs-sub-primary: #393E46;
+    --bs-secondary: #00ADB5;
+    --bs-sub-secondary: #4FBDBA;
+    --bs-tertiary: #31316A;
+    --bs-sub-tertiary: #3d3d85;
+    --bs-success: #10B981;
+    --bs-sub-success: #13d696;
+    --bs-info: #2361ce;
+    --bs-sub-info: #256be6;
+    --bs-warning: #f3c78e;
+    --bs-sub-warning: #f7d3a3;
+    --bs-danger: #E11D48;
+    --bs-sub-danger: #e32952;
+    --bs-body-color: #393E46;
+    --bs-body-bg: #EEEEEE;
+    --bs-font-sans-serif: "Oxygen", sans-serif;
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --bs-body-font-family: var(--bs-font-sans-serif);
+    --bs-body-font-size: 1rem;
+    --bs-body-font-weight: 400;
+    --bs-body-line-height: 1.5;
+
+    --bs-red-100: #fbbab5;
+    --bs-red-200: #fbaea7;
+    --bs-gray-50: #F9FAFB;
+    --bs-primary-rgb: 31, 41, 55;
+    --bs-secondary-rgb: 251, 80, 59;
+    --bs-tertiary-rgb: 49, 49, 106;
+    --bs-success-rgb: 16, 185, 129;
+    --bs-info-rgb: 35, 97, 206;
+    --bs-warning-rgb: 243, 199, 142;
+    --bs-danger-rgb: 225, 29, 72;
+    --bs-white-rgb: 255, 255, 255;
+    --bs-indigo-rgb: 79, 70, 229;
+    --bs-purple-rgb: 124, 58, 237;
+    --bs-red-100-rgb: 251, 186, 181;
+    --bs-red-200-rgb: 251, 174, 167;
+    --bs-gray-50-rgb: 249, 250, 251;
+    --bs-gray-100-rgb: 242, 244, 246;
+    --bs-gray-200-rgb: 229, 231, 235;
+    --bs-gray-300-rgb: 209, 213, 219;
+    --bs-gray-400-rgb: 156, 163, 175;
+    --bs-gray-500-rgb: 107, 114, 128;
+    --bs-gray-600-rgb: 75, 85, 99;
+    --bs-gray-700-rgb: 55, 65, 81;
+    --bs-gray-800-rgb: 31, 41, 55;
+    --bs-gray-900-rgb: 17, 24, 39;
+    --bs-black-rgb: 17, 24, 39;
+    --bs-body-color-rgb: 55, 65, 81;
+    --bs-body-bg-rgb: 242, 244, 246;
+
+
+}

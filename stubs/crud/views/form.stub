@@ -1,0 +1,9 @@
+<div class="box box-info padding-1">
+    <div class="box-body">
+
+       {{form}}
+        <div class="box-footer mt-3">
+            <button type="submit" class="btn btn-primary">{{__('common.Submit')}}</button>
+        </div>
+    </div>
+</div>

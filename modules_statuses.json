@@ -1,0 +1,16 @@
+{
+    "Customer": true,
+    "Setting": true,
+    "Blog": true,
+    "FrontendManager": true,
+    "Payment": true,
+    "Subscription": true,
+    "Business": true,
+    "Sales": true,
+    "Purchases": true,
+    "Tax": true,
+    "QRBuilder": true,
+    "Announcement": true,
+    "MenuBuilder": true,
+    "Report": true
+}

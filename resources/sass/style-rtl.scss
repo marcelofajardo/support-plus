@@ -1,0 +1,28 @@
+html[dir=rtl] .sidebar {
+    right: 0;
+}
+
+html[dir=rtl] .nav {
+    padding-right: 0;
+}
+
+html[dir=rtl] .sidebar .nav-link .sidebar-icon {
+    margin-left: 0.5rem;
+}
+
+html[dir=rtl] .dt-buttons.btn-group.flex-wrap {
+    float: left;
+}
+
+html[dir=rtl] .sidebar .multi-level .nav-link {
+    padding-left: 0;
+    padding-right: 40px;
+}
+
+@media (min-width: 992px) {
+    html[dir=rtl] .content {
+        margin-left: 0;
+        margin-right: 260px;
+    }
+}
+

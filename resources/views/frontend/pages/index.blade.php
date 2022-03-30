@@ -1,0 +1,12 @@
+@extends('frontend.layouts.app')
+@section('title')
+    {{__('common.Home')}}
+@endsection
+@section('content')
+    @include('frontend.partials._slider')
+    @include('frontend.partials._workflow')
+    @include('frontend.partials._features')
+    @include('frontend.partials._client_feedback')
+    @include('frontend.partials._recent_blog')
+    @include('frontend.partials._partner')
+@endsection

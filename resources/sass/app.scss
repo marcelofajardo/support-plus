@@ -1,0 +1,19 @@
+@import "~datatables.net-bs5/css/dataTables.bootstrap5.css";
+@import "~datatables.net-buttons-bs5/css/buttons.bootstrap5.css";
+@import "~select2";
+@import "~select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.min.css";
+@import '~aos/src/sass/aos';
+@import "./summernote.min.css";
+@import "./themify-icons.css";
+@import 'datepicker.css';
+@import 'owl.carousel/dist/assets/owl.carousel.css';
+@import "magnific-popup";
+//@import 'vanillajs-datepicker/dist/css/datepicker.css';
+
+@import "variables";
+@import "style";
+
+
+.datepicker-hide {
+    display: none;
+}
