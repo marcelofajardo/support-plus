@@ -13,7 +13,6 @@ class AjaxController extends Controller
 
     public function __construct(AjaxRepositoryInterface $ajaxRepository)
     {
-
         $this->ajaxRepository = $ajaxRepository;
     }
 //$status = $this->ajaxRepository->changeTableStatus($request->validated());
